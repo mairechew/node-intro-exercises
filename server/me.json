@@ -1,0 +1,19 @@
+{
+  "name": "Maire Chew",
+  "title": "Galvanize Student",
+  "age": "25",
+  "animals": [
+    {
+      "pets": "Bailey",
+      "breed": "Beagle",
+      "occupation": "Barista"
+    }
+  ],
+  "experience": [
+    {
+      "year-ago": "comms coordinator",
+      "two-years": "dancer",
+      "three-years": "college grad"
+    }
+  ]  
+}
